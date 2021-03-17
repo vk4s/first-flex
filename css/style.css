@@ -39,3 +39,17 @@ body {
   background-color: white;
   color: orange;
 }
+#flex-item-link {
+  text-align: center;
+}
+#flex-item-link a {
+  padding: 10px;
+  border-radius: 10px;
+  text-decoration: none;
+  background: orange;
+  color: white;
+}
+#flex-item-link a:hover {
+  background: white;
+  color: orange;
+}
